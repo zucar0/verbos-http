@@ -16,3 +16,14 @@ app.get('/', (req, res) =>{
 app.post('/', (req, res)=>{
     res.send('Guardando.')
 });
+
+//Método PUT
+app.post('/', (req, res)=>{
+    res.send('Actualizando.')
+});
+
+
+//Método DElete
+app.post('/', (req, res)=>{
+    res.send('Eliminando.')
+});

@@ -1,0 +1,15 @@
+{
+  "name": "verbos-http",
+  "version": "1.0.0",
+  "description": "Curso de Rest Api con nodejs aprenderas a crear tu primera REST API, para entender los conceptos de los verbos http en una rest api, usando javascript en el servidor con nodejs y express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
